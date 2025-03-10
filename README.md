@@ -14,4 +14,4 @@
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=damian-ds7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/damian-ds7/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)](https://githubtrends.io)
